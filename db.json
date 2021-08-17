@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Barber Appointment",
+      "date": "2021-08-17",
+      "highlight": true
+    },
+    {
+      "id": "2",
+      "title": "Yoga Class",
+      "date": "2021-08-20",
+      "highlight": false
+    },
+    {
+      "id": "3",
+      "title": "Dinner with friends",
+      "date": "2021-08-20",
+      "highlight": true
+    },
+    {
+      "id": "4",
+      "title": "Mike's B-day",
+      "date": "2021-08-24",
+      "highlight": false
+    },
+    {
+      "id": "5",
+      "title": "Yoga Class",
+      "date": "2021-09-01",
+      "highlight": false
+    },
+    {
+      "id": "6",
+      "title": "Condo Association",
+      "date": "2021-09-05",
+      "highlight": true
+    },
+    {
+      "id": "7",
+      "title": "John's B-day",
+      "date": "2021-09-10",
+      "highlight": false
+    },
+    {
+      "id": "8",
+      "title": "Car Oil Change",
+      "date": "2021-09-15",
+      "highlight": true
+    },
+    {
+      "id": "9",
+      "title": "Writing Class",
+      "date": "2021-09-20",
+      "highlight": false
+    }
+  ]
+}
